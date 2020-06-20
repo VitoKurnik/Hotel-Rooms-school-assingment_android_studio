@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RezervacijaSob</string>
+    <string name="vnos">REZERVACIJE</string>
+    <string name="cena">Cena:</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="exit">EXIT</string>
+    <string name="info">INFO</string>
+    <string name="odpri">ODPRI</string>
+    <string name="room">ROOM</string>
+    <string name="view">TextView</string>
+    <string name="save">Save</string>
+    <string name="contentDescription">TODO</string>
+    <string name="htmllabel">DOBRODOŠLI!</string>
+</resources>

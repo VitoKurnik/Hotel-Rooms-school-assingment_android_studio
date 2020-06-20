@@ -1,0 +1,1 @@
+A simple demo app covering multiple assignments for a class about platform dependent development. The purpose of the app is to demonstrate basic concepts used in Android Studio.
